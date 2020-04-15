@@ -90,7 +90,7 @@ namespace LineDrawings
             float Y = y0;
             for (int i = 0; i <= steps; i++)
             {
-                bitmap.SetPixel((int)X, (int)Y, Color.Black);
+                bitmap.SetPixel(Convert.ToInt32(X), Convert.ToInt32(Y), Color.Black);
                 X += Xinc;
                 Y += Yinc;
             }
