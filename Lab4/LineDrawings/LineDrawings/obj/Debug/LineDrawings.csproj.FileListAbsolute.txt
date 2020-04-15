@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LineDrawings\LineDrawings\bin\Debug\LineDrawings.exe.config
+C:\Users\User\source\repos\LineDrawings\LineDrawings\bin\Debug\LineDrawings.exe
+C:\Users\User\source\repos\LineDrawings\LineDrawings\bin\Debug\LineDrawings.pdb
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.Form1.resources
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.Properties.Resources.resources
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.exe
+C:\Users\User\source\repos\LineDrawings\LineDrawings\obj\Debug\LineDrawings.pdb
