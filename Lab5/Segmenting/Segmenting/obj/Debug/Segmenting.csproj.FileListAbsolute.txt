@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Segmenting\Segmenting\bin\Debug\Segmenting.exe.config
+C:\Users\User\source\repos\Segmenting\Segmenting\bin\Debug\Segmenting.exe
+C:\Users\User\source\repos\Segmenting\Segmenting\bin\Debug\Segmenting.pdb
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.Form1.resources
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.Properties.Resources.resources
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.exe
+C:\Users\User\source\repos\Segmenting\Segmenting\obj\Debug\Segmenting.pdb
